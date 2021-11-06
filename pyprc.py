@@ -1,2 +1,3 @@
 print("Hello World!")
-print('4+5= ', 4+5)
+print('4+9 = ', 4+9)
+print('5+6 = ', 5+6)
